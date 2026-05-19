@@ -1,0 +1,13 @@
+Requirements:
+
+torch
+torchvision
+torchaudio
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+networkx
+scipy
+tqdm
